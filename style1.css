@@ -1,3 +1,21 @@
+
+.header{
+	background-image: url(images/i_header.jpg);
+    background-size: cover;
+}
+
+.bajoheader{}
+
+
+
+
+
+
 .footer{
-	background-color: grey;
+	background-color: white;
+}
+
+
+.notsidebar{
+	background-color: #cce6ff;
 }
