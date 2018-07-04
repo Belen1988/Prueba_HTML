@@ -1,7 +1,11 @@
 
 .header{
 	background-image: url(images/i_header.jpg);
-    background-size: cover;
+
+}
+
+.indexcontainer{
+	margin-left: 10%;
 }
 
 .bajoheader{}
@@ -16,6 +20,3 @@
 }
 
 
-.notsidebar{
-	background-color: #cce6ff;
-}
