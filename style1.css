@@ -82,7 +82,7 @@ nav .navbar-brand--custom img {
 }
 
 .directorioimagen{
-	height: 280px;
+	width: 400%;
 }
 .boxa{
 	background-color:#6495ED;
@@ -109,4 +109,9 @@ nav .navbar-brand--custom img {
 .mainbar{
 	content:center;
 	text-align: justify;
+}
+
+.noticias{
+margin-left: 20px;
+
 }
