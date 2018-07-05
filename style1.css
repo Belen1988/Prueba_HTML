@@ -1,22 +1,112 @@
-
-.header{
-	background-image: url(images/i_header.jpg);
-
+nav .navbar-brand--custom img {
+	max-height: 50px;
+	padding: 0;
 }
+
+.navbar.navbar-default {
+	margin-bottom: 0;
+}
+
 
 .indexcontainer{
 	margin-left: 10%;
 }
 
-.bajoheader{}
 
+.carrusel{
+	margin-top: 0px;
+	background-color: grey;
+	height: 400px;
+	width: 100%;
+}
+.img1{
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img2{
+	width: 915px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img3{
+	width: 492px;
+	margin-left: auto;
+	margin-right: auto;
+}
 
+.header2{
+	background-color: #6495ED;
+	width: 100%;
+}
+.header2 ul.lista{
+	list-style: none;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font
+}
 
+.indexcontainer{
+	margin-top: 30px;
+	text-align: center;
+}
 
-
+.thumbnail{
+	height: 400px;
+}
+.webpay{
+	width: 200px;
+}
 
 .footer{
-	background-color: white;
+	background-color: #867e7e1a;
+	padding-top: 30px;
 }
 
 
+
+.nosotros{
+	background-color:#6495ED;
+	height: 300px;
+
+}
+.seccion2{
+	height: 200px;
+	background-color: #867e7e1a;
+	margin-top: 30px;
+}
+
+.seccion3{
+	margin-top: 40px;
+}
+
+.directorioimagen{
+	height: 280px;
+}
+.boxa{
+	background-color:#6495ED;
+	height: 330px; 
+}
+
+.boxb{}
+
+.voluntariado{
+	border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px; 
+    width: 80%; 
+    height: 250px;
+}
+
+
+.sidebar{
+	margin-top: 10px;
+	background-color:#6495ED;
+	height: 2040px;
+
+}
+.mainbar{
+	content:center;
+	text-align: justify;
+}
