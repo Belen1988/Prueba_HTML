@@ -38,18 +38,22 @@ nav .navbar-brand--custom img {
 .header2{
 	background-color: #6495ED;
 	width: 100%;
+	font-family: 'Open Sans', sans-serif;
 }
+
 .header2 ul.lista{
 	list-style: none;
 	text-align: center;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	font
+	font-family: 'Open Sans', sans-serif;
+
 }
 
 .indexcontainer{
 	margin-top: 30px;
 	text-align: center;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .thumbnail{
