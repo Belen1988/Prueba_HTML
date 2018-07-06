@@ -75,8 +75,9 @@ nav .navbar-brand--custom img {
 	background-color:#6495ED;
 	height: 300px;
 	text-align: center;
-	font-size: 10em;
+	font-size: 100px;
 	font-family: 'Open Sans', sans-serif;
+	padding-top: 70px;
 }
 
 .caja1{
@@ -118,6 +119,16 @@ nav .navbar-brand--custom img {
 	font-size: 15px;
 }
 
+.boxboxa{
+	padding-top: 10px;
+}
+.boxboxb{
+	padding-top: 20px;
+}
+.boxboxc{
+	padding-top: 20px;
+}
+
 .boxb{
 	background-color: #F0F0F0;
 	border: 1px solid grey;
@@ -126,14 +137,25 @@ nav .navbar-brand--custom img {
 	font-size: 15px;
 }
 
+.boxbox1{
+	text-align: center;
+	padding-top: 70px;
+}
+
+.boxbox2{
+	
+	padding-top: 10px;
+}
+
 .voluntariado{
 	border-radius: 25px;
     border: 2px solid grey;
     padding: 20px; 
     width: 80%; 
-    height: 250px;
+    height: 200px;
     margin-top: 20px;
     font-family: 'Open Sans', sans-serif;
+    margin-bottom: 5px;
 }
 
 
