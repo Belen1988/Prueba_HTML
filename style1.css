@@ -69,6 +69,9 @@ nav .navbar-brand--custom img {
 .nosotros{
 	background-color:#6495ED;
 	height: 300px;
+	text-align: center;
+	font-size: 10em;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .caja1{
@@ -93,17 +96,30 @@ nav .navbar-brand--custom img {
 
 .seccion3{
 	margin-top: 40px;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .directorioimagen{
-	width: 400%;
-}
-.boxa{
-	background-color:#6495ED;
-	height: 330px; 
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.boxb{}
+.boxa{
+	background-color:#6495ED;
+	height: 330px;
+	border: 1px solid grey; 
+	text-align: justify;
+	font-size: 15px;
+}
+
+.boxb{
+	background-color: #F0F0F0;
+	border: 1px solid grey;
+	height: 330px;
+	text-align: justify;
+	font-size: 15px;
+}
 
 .voluntariado{
 	border-radius: 25px;
@@ -111,6 +127,8 @@ nav .navbar-brand--custom img {
     padding: 20px; 
     width: 80%; 
     height: 250px;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
